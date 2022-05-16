@@ -14,3 +14,10 @@ a {
 * {
   box-sizing: border-box;
 }
+
+
+.imageHeader{
+  height: 270px;
+  width: auto;
+  margin: 0 auto;
+}
